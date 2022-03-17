@@ -1,0 +1,13 @@
+20856,besliu,sleep 0.13,5081,bash
+20882,besliu,/usr/libexec/tracker-extract,1634,bash
+23181,besliu,sleep 0.12,5081,bash
+23205,besliu,/usr/libexec/tracker-extract,1634,bash
+23266,,,,bash
+23442,,,,bash
+23506,,,,bash
+23782,root,[kworker/u64:1],2,bash
+26783,besliu,/usr/share/discord/Discord --type=utility --field-trial-handle=17687606709082821096,17191258412836584732,131072 --enable-features=WebComponentsV0Enabled --disable-features=SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=none --enable-crash-reporter=24dfc4ed-c76e-4000-85b2-340127f60732,no_channel --global-crash-keys=24dfc4ed-c76e-4000-85b2-340127f60732,no_channel,_companyName=Discord Inc.,_productName=Discord,_version=0.0.13 --shared-files=v8_snapshot_data:100,5147,bash
+26817,besliu,/usr/libexec/tracker-extract,1634,bash
+28320,root,[kworker/9:1-events],2,bash
+31046,root,[kworker/11:0-mm_percpu_wq],2,bash
+31088,besliu,/usr/libexec/tracker-extract,1634,bash
